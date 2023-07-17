@@ -11,7 +11,7 @@ Projeto para obtenção de nota, na disciplina de PINT1123 - PROJETO INTEGRADOR 
 #### - **_Integrantes_**
 
 - André Luiz Cardoso da Silva
-- Lucas Gabriel Lins Velozo
+- Lucas Gabriel Lins Veloso
 - Marco Andre da Costa Bueno Padilha
 
 <i><h2 align="center">Responsável, <a href="https://www.linkedin.com/in/lucasgabriellv/">Lucas Veloso</a></h2></i>
